@@ -1,0 +1,1972 @@
+{
+  "metadata": {
+    "name": "Railway Finder",
+    "version": "2.0",
+    "note": "Kategori/formasi dan nomor dari rekap pengguna. Jadwal Gapeka disimpan terpisah; jangan menyimpulkan jadwal yang tidak tersedia.",
+    "direction_rule": "Nomor ganjil = arah dari timur; nomor genap = arah dari barat (sesuai rekap pengguna).",
+    "asterisk_rule": "* = sudah 120 km/jam (sesuai rekap pengguna)."
+  },
+  "trains": [
+    {
+      "number": "1-4",
+      "number_aliases": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "name": "Argo Bromo Anggrek",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif New Generation (SS Gen 2)",
+      "rolling_stock": "Eksekutif New Generation (SS Gen 2)",
+      "locomotive": "Belum dipetakan",
+      "speed_note": "Ditandai * pada rekap: sudah 120 km/jam",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "argo bromo anggrek"
+      ]
+    },
+    {
+      "number": "5-6",
+      "number_aliases": [
+        "5",
+        "6"
+      ],
+      "name": "Argo Semeru",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif New Generation (SS Gen 2)",
+      "rolling_stock": "Eksekutif New Generation (SS Gen 2)",
+      "locomotive": "CC 206",
+      "speed_note": "Ditandai * pada rekap: sudah 120 km/jam",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "argo semeru"
+      ]
+    },
+    {
+      "number": "7-8",
+      "number_aliases": [
+        "7",
+        "8"
+      ],
+      "name": "Bima",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif New Generation (SS Gen 2)",
+      "rolling_stock": "Eksekutif New Generation (SS Gen 2)",
+      "locomotive": "CC 206",
+      "speed_note": "Ditandai * pada rekap: sudah 120 km/jam",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "bima"
+      ]
+    },
+    {
+      "number": "9-10",
+      "number_aliases": [
+        "9",
+        "10"
+      ],
+      "name": "Argo Wilis",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif New Generation (SS Gen 2)",
+      "rolling_stock": "Eksekutif New Generation (SS Gen 2)",
+      "locomotive": "CC 206",
+      "speed_note": "Ditandai * pada rekap: sudah 120 km/jam",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "argo wilis"
+      ]
+    },
+    {
+      "number": "11-12",
+      "number_aliases": [
+        "11",
+        "12"
+      ],
+      "name": "Turangga",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif New Generation (SS Gen 2)",
+      "rolling_stock": "Eksekutif New Generation (SS Gen 2)",
+      "locomotive": "CC 206",
+      "speed_note": "Ditandai * pada rekap: sudah 120 km/jam",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "turangga"
+      ]
+    },
+    {
+      "number": "13-14",
+      "number_aliases": [
+        "13",
+        "14"
+      ],
+      "name": "Argo Lawu",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif New Generation (SS Gen 2)",
+      "rolling_stock": "Eksekutif New Generation (SS Gen 2)",
+      "locomotive": "CC 206",
+      "speed_note": "Ditandai * pada rekap: sudah 120 km/jam",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "argo lawu"
+      ]
+    },
+    {
+      "number": "15-16",
+      "number_aliases": [
+        "15",
+        "16"
+      ],
+      "name": "Argo Dwipangga",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif New Generation (SS Gen 2)",
+      "rolling_stock": "Eksekutif New Generation (SS Gen 2)",
+      "locomotive": "CC 206",
+      "speed_note": "Ditandai * pada rekap: sudah 120 km/jam",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "argo dwipangga"
+      ]
+    },
+    {
+      "number": "17-19",
+      "number_aliases": [
+        "17",
+        "18",
+        "19"
+      ],
+      "name": "Argo Sindoro",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif New Generation (SS Gen 2)",
+      "rolling_stock": "Eksekutif New Generation (SS Gen 2)",
+      "locomotive": "CC 206",
+      "speed_note": "Ditandai * pada rekap: sudah 120 km/jam",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "argo sindoro"
+      ]
+    },
+    {
+      "number": "20-22",
+      "number_aliases": [
+        "20",
+        "21",
+        "22"
+      ],
+      "name": "Argo Muria",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif New Generation (SS Gen 2)",
+      "rolling_stock": "Eksekutif New Generation (SS Gen 2)",
+      "locomotive": "CC 206",
+      "speed_note": "Ditandai * pada rekap: sudah 120 km/jam",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "argo muria"
+      ]
+    },
+    {
+      "number": "35-36",
+      "number_aliases": [
+        "35",
+        "36"
+      ],
+      "name": "Gajayana",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif New Generation (SS Gen 2)",
+      "rolling_stock": "Eksekutif New Generation (SS Gen 2)",
+      "locomotive": "CC 206",
+      "speed_note": "Ditandai * pada rekap: sudah 120 km/jam",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "gajayana"
+      ]
+    },
+    {
+      "number": "43-48",
+      "number_aliases": [
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "48"
+      ],
+      "name": "Taksaka",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif New Generation (SS Gen 2)",
+      "rolling_stock": "Eksekutif New Generation (SS Gen 2)",
+      "locomotive": "CC 206",
+      "speed_note": "Ditandai * pada rekap: sudah 120 km/jam",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "taksaka"
+      ]
+    },
+    {
+      "number": "29-30",
+      "number_aliases": [
+        "29",
+        "30"
+      ],
+      "name": "Argo Anjasmoro",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif SS Gen 1",
+      "rolling_stock": "Eksekutif SS Gen 1",
+      "locomotive": "CC 201",
+      "speed_note": "Belum ditentukan dari rekap",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "argo anjasmoro"
+      ]
+    },
+    {
+      "number": "31-34",
+      "number_aliases": [
+        "31",
+        "32",
+        "33",
+        "34"
+      ],
+      "name": "Pandalungan",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif SS Gen 1",
+      "rolling_stock": "Eksekutif SS Gen 1",
+      "locomotive": "CC 206",
+      "speed_note": "Ditandai * pada rekap: sudah 120 km/jam",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "pandalungan"
+      ]
+    },
+    {
+      "number": "39-42",
+      "number_aliases": [
+        "39",
+        "40",
+        "41",
+        "42"
+      ],
+      "name": "Sembrani",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif SS Gen 1",
+      "rolling_stock": "Eksekutif SS Gen 1",
+      "locomotive": "CC 206",
+      "speed_note": "Ditandai * pada rekap: sudah 120 km/jam",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "sembrani"
+      ]
+    },
+    {
+      "number": "61-64",
+      "number_aliases": [
+        "61",
+        "62",
+        "63",
+        "64"
+      ],
+      "name": "Manahan",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif SS Gen 1",
+      "rolling_stock": "Eksekutif SS Gen 1",
+      "locomotive": "CC 206",
+      "speed_note": "Ditandai * pada rekap: sudah 120 km/jam",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "manahan"
+      ]
+    },
+    {
+      "number": "23-28",
+      "number_aliases": [
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28"
+      ],
+      "name": "Argo Merbabu",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif 2016/2017 (New Image)",
+      "rolling_stock": "Eksekutif 2016/2017 (New Image)",
+      "locomotive": "CC 206",
+      "speed_note": "Ditandai * pada rekap: sudah 120 km/jam",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "argo merbabu"
+      ]
+    },
+    {
+      "number": "37-38",
+      "number_aliases": [
+        "37",
+        "38"
+      ],
+      "name": "Brawijaya",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif 2016/2017 (New Image)",
+      "rolling_stock": "Eksekutif 2016/2017 (New Image)",
+      "locomotive": "CC 206",
+      "speed_note": "Ditandai * pada rekap: sudah 120 km/jam",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "brawijaya"
+      ]
+    },
+    {
+      "number": "49-60",
+      "number_aliases": [
+        "49",
+        "50",
+        "51",
+        "52",
+        "53",
+        "54",
+        "55",
+        "56",
+        "57",
+        "58",
+        "59",
+        "60"
+      ],
+      "name": "Purwojaya",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif 2016/2017 (New Image)",
+      "rolling_stock": "Eksekutif 2016/2017 (New Image)",
+      "locomotive": "CC 206",
+      "speed_note": "Tidak terkena batas 110 km/jam (sesuai rekap)",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "purwojaya"
+      ]
+    },
+    {
+      "number": "65-66",
+      "number_aliases": [
+        "65",
+        "66"
+      ],
+      "name": "Arjuno Ekspress",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif 2016/2017 (New Image)",
+      "rolling_stock": "Eksekutif 2016/2017 (New Image)",
+      "locomotive": "Belum dipetakan",
+      "speed_note": "Belum ditentukan dari rekap",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "arjuno ekspress"
+      ]
+    },
+    {
+      "number": "73-74",
+      "number_aliases": [
+        "73",
+        "74"
+      ],
+      "name": "Fajar/Senja Utama Solo",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif dan Ekonomi New Generation SS Gen 2",
+      "rolling_stock": "Eksekutif dan Ekonomi New Generation SS Gen 2",
+      "locomotive": "Belum dipetakan",
+      "speed_note": "Ditandai * pada rekap: sudah 120 km/jam",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "fajar/senja utama solo"
+      ]
+    },
+    {
+      "number": "75-76",
+      "number_aliases": [
+        "75",
+        "76"
+      ],
+      "name": "Mataram",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif dan Ekonomi New Generation SS Gen 2",
+      "rolling_stock": "Eksekutif dan Ekonomi New Generation SS Gen 2",
+      "locomotive": "CC 203",
+      "speed_note": "Ditandai * pada rekap: sudah 120 km/jam",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "mataram"
+      ]
+    },
+    {
+      "number": "77-80",
+      "number_aliases": [
+        "77",
+        "78",
+        "79",
+        "80"
+      ],
+      "name": "Lodaya",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif dan Ekonomi New Generation SS Gen 2",
+      "rolling_stock": "Eksekutif dan Ekonomi New Generation SS Gen 2",
+      "locomotive": "CC 206",
+      "speed_note": "Ditandai * pada rekap: sudah 120 km/jam",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "lodaya"
+      ]
+    },
+    {
+      "number": "89-90",
+      "number_aliases": [
+        "89",
+        "90"
+      ],
+      "name": "Gaya Baru Malam Selatan",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif dan Ekonomi New Generation SS Gen 2",
+      "rolling_stock": "Eksekutif dan Ekonomi New Generation SS Gen 2",
+      "locomotive": "CC 206",
+      "speed_note": "Ditandai * pada rekap: sudah 120 km/jam",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "gaya baru malam selatan"
+      ]
+    },
+    {
+      "number": "91-94",
+      "number_aliases": [
+        "91",
+        "92",
+        "93",
+        "94"
+      ],
+      "name": "Jayabaya",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif dan Ekonomi New Generation SS Gen 2",
+      "rolling_stock": "Eksekutif dan Ekonomi New Generation SS Gen 2",
+      "locomotive": "CC 206",
+      "speed_note": "Ditandai * pada rekap: sudah 120 km/jam",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "jayabaya"
+      ]
+    },
+    {
+      "number": "103-104",
+      "number_aliases": [
+        "103",
+        "104"
+      ],
+      "name": "Bogowonto",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif dan Ekonomi New Generation SS Gen 2",
+      "rolling_stock": "Eksekutif dan Ekonomi New Generation SS Gen 2",
+      "locomotive": "CC 203",
+      "speed_note": "Ditandai * pada rekap: sudah 120 km/jam",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "bogowonto"
+      ]
+    },
+    {
+      "number": "125-126",
+      "number_aliases": [
+        "125",
+        "126"
+      ],
+      "name": "Cheribon Fakultatif",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif dan Ekonomi New Generation SS Gen 2",
+      "rolling_stock": "Eksekutif dan Ekonomi New Generation SS Gen 2",
+      "locomotive": "Belum dipetakan",
+      "speed_note": "Belum ditentukan dari rekap",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "cheribon fakultatif"
+      ]
+    },
+    {
+      "number": "149-150",
+      "number_aliases": [
+        "149",
+        "150"
+      ],
+      "name": "Singasari",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif dan Ekonomi New Generation SS Gen 2",
+      "rolling_stock": "Eksekutif dan Ekonomi New Generation SS Gen 2",
+      "locomotive": "CC 201",
+      "speed_note": "Belum ditentukan dari rekap",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "singasari"
+      ]
+    },
+    {
+      "number": "153-156",
+      "number_aliases": [
+        "153",
+        "154",
+        "155",
+        "156"
+      ],
+      "name": "Ranggajati",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif dan Ekonomi New Generation SS Gen 2",
+      "rolling_stock": "Eksekutif dan Ekonomi New Generation SS Gen 2",
+      "locomotive": "CC 206",
+      "speed_note": "Belum ditentukan dari rekap",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "ranggajati"
+      ]
+    },
+    {
+      "number": "161-162",
+      "number_aliases": [
+        "161",
+        "162"
+      ],
+      "name": "Bangunkarta",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif dan Ekonomi New Generation SS Gen 2",
+      "rolling_stock": "Eksekutif dan Ekonomi New Generation SS Gen 2",
+      "locomotive": "CC 201",
+      "speed_note": "Belum ditentukan dari rekap",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "bangunkarta"
+      ]
+    },
+    {
+      "number": "163-164",
+      "number_aliases": [
+        "163",
+        "164"
+      ],
+      "name": "Gumarang",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif dan Ekonomi New Generation SS Gen 2",
+      "rolling_stock": "Eksekutif dan Ekonomi New Generation SS Gen 2",
+      "locomotive": "CC 201",
+      "speed_note": "Belum ditentukan dari rekap",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "gumarang"
+      ]
+    },
+    {
+      "number": "203-204",
+      "number_aliases": [
+        "203",
+        "204"
+      ],
+      "name": "Tegal Bahari",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif dan Ekonomi New Generation SS Gen 2",
+      "rolling_stock": "Eksekutif dan Ekonomi New Generation SS Gen 2",
+      "locomotive": "CC 201",
+      "speed_note": "Belum ditentukan dari rekap",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "tegal bahari"
+      ]
+    },
+    {
+      "number": "67-70",
+      "number_aliases": [
+        "67",
+        "68",
+        "69",
+        "70"
+      ],
+      "name": "Malabar",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif dan Premium SS Gen 1",
+      "rolling_stock": "Eksekutif dan Premium SS Gen 1",
+      "locomotive": "CC 206",
+      "speed_note": "Ditandai * pada rekap: sudah 120 km/jam",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "malabar"
+      ]
+    },
+    {
+      "number": "71-72",
+      "number_aliases": [
+        "71",
+        "72"
+      ],
+      "name": "Mutiara Selatan",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif dan Premium SS Gen 1",
+      "rolling_stock": "Eksekutif dan Premium SS Gen 1",
+      "locomotive": "Belum dipetakan",
+      "speed_note": "Ditandai * pada rekap: sudah 120 km/jam",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "mutiara selatan"
+      ]
+    },
+    {
+      "number": "81-88",
+      "number_aliases": [
+        "81",
+        "82",
+        "83",
+        "84",
+        "85",
+        "86",
+        "87",
+        "88"
+      ],
+      "name": "Sancaka",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif dan Premium SS Gen 1",
+      "rolling_stock": "Eksekutif dan Premium SS Gen 1",
+      "locomotive": "CC 206, CC 203",
+      "speed_note": "Ditandai * pada rekap: sudah 120 km/jam",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "sancaka"
+      ]
+    },
+    {
+      "number": "95-102",
+      "number_aliases": [
+        "95",
+        "96",
+        "97",
+        "98",
+        "99",
+        "100",
+        "101",
+        "102"
+      ],
+      "name": "Harina",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif dan Premium SS Gen 1",
+      "rolling_stock": "Eksekutif dan Premium SS Gen 1",
+      "locomotive": "CC 206",
+      "speed_note": "Ditandai * pada rekap: sudah 120 km/jam",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "harina"
+      ]
+    },
+    {
+      "number": "105-106",
+      "number_aliases": [
+        "105",
+        "106"
+      ],
+      "name": "Gajahwong",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif dan Premium SS Gen 1",
+      "rolling_stock": "Eksekutif dan Premium SS Gen 1",
+      "locomotive": "CC 203",
+      "speed_note": "Ditandai * pada rekap: sudah 120 km/jam",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "gajahwong"
+      ]
+    },
+    {
+      "number": "107-110",
+      "number_aliases": [
+        "107",
+        "108",
+        "109",
+        "110"
+      ],
+      "name": "Fajar/Senja Utama Yogyakarta",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif dan Premium SS Gen 1",
+      "rolling_stock": "Eksekutif dan Premium SS Gen 1",
+      "locomotive": "Belum dipetakan",
+      "speed_note": "Ditandai * pada rekap: sudah 120 km/jam",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "fajar/senja utama yogyakarta"
+      ]
+    },
+    {
+      "number": "111-116",
+      "number_aliases": [
+        "111",
+        "112",
+        "113",
+        "114",
+        "115",
+        "116"
+      ],
+      "name": "Sawunggalih",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif dan Premium SS Gen 1",
+      "rolling_stock": "Eksekutif dan Premium SS Gen 1",
+      "locomotive": "CC 203",
+      "speed_note": "Ditandai * pada rekap: sudah 120 km/jam",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "sawunggalih"
+      ]
+    },
+    {
+      "number": "127-128",
+      "number_aliases": [
+        "127",
+        "128"
+      ],
+      "name": "Pangandaran",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif dan Premium SS Gen 1",
+      "rolling_stock": "Eksekutif dan Premium SS Gen 1",
+      "locomotive": "CC 206",
+      "speed_note": "Ditandai * pada rekap: sudah 120 km/jam",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "pangandaran"
+      ]
+    },
+    {
+      "number": "129-130",
+      "number_aliases": [
+        "129",
+        "130"
+      ],
+      "name": "Papandayan",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif dan Premium SS Gen 1",
+      "rolling_stock": "Eksekutif dan Premium SS Gen 1",
+      "locomotive": "CC 206",
+      "speed_note": "Ditandai * pada rekap: sudah 120 km/jam",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "papandayan"
+      ]
+    },
+    {
+      "number": "131-142",
+      "number_aliases": [
+        "131",
+        "132",
+        "133",
+        "134",
+        "135",
+        "136",
+        "137",
+        "138",
+        "139",
+        "140",
+        "141",
+        "142"
+      ],
+      "name": "Parahyangan",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif dan Premium SS Gen 1",
+      "rolling_stock": "Eksekutif dan Premium SS Gen 1",
+      "locomotive": "CC 206",
+      "speed_note": "Ditandai * pada rekap: sudah 120 km/jam",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "parahyangan"
+      ]
+    },
+    {
+      "number": "7046/7043, 7044/7045",
+      "number_aliases": [
+        "7046",
+        "7043",
+        "7044",
+        "7045"
+      ],
+      "name": "Sangkuriang",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif dan Premium SS Gen 1",
+      "rolling_stock": "Eksekutif dan Premium SS Gen 1",
+      "locomotive": "CC 206",
+      "speed_note": "Belum ditentukan dari rekap",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "sangkuriang"
+      ]
+    },
+    {
+      "number": "143-144",
+      "number_aliases": [
+        "143",
+        "144"
+      ],
+      "name": "Madiun Jaya",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif SS Gen 1/NI/old dan Ekonomi modifikasi new generation",
+      "rolling_stock": "Eksekutif SS Gen 1/NI/old dan Ekonomi modifikasi new generation",
+      "locomotive": "CC 201",
+      "speed_note": "Ditandai * pada rekap: sudah 120 km/jam",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "madiun jaya"
+      ]
+    },
+    {
+      "number": "145-148",
+      "number_aliases": [
+        "145",
+        "146",
+        "147",
+        "148"
+      ],
+      "name": "Blambangan Ekspress",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif SS Gen 1/NI/old dan Ekonomi modifikasi new generation",
+      "rolling_stock": "Eksekutif SS Gen 1/NI/old dan Ekonomi modifikasi new generation",
+      "locomotive": "CC 203",
+      "speed_note": "Belum ditentukan dari rekap",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "blambangan ekspress"
+      ]
+    },
+    {
+      "number": "239-242",
+      "number_aliases": [
+        "239",
+        "240",
+        "241",
+        "242"
+      ],
+      "name": "Ijen Ekspress",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif SS Gen 1/NI/old dan Ekonomi modifikasi new generation",
+      "rolling_stock": "Eksekutif SS Gen 1/NI/old dan Ekonomi modifikasi new generation",
+      "locomotive": "Belum dipetakan",
+      "speed_note": "Belum ditentukan dari rekap",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "ijen ekspress"
+      ]
+    },
+    {
+      "number": "151-152",
+      "number_aliases": [
+        "151",
+        "152"
+      ],
+      "name": "Brantas",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif SS Gen 1/NI/old dan Ekonomi modifikasi new generation",
+      "rolling_stock": "Eksekutif SS Gen 1/NI/old dan Ekonomi modifikasi new generation",
+      "locomotive": "CC 201",
+      "speed_note": "Belum ditentukan dari rekap",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "brantas"
+      ]
+    },
+    {
+      "number": "165-166",
+      "number_aliases": [
+        "165",
+        "166"
+      ],
+      "name": "Dharmawangsa Ekspress",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif SS Gen 1/NI/old dan Ekonomi modifikasi new generation",
+      "rolling_stock": "Eksekutif SS Gen 1/NI/old dan Ekonomi modifikasi new generation",
+      "locomotive": "CC 201",
+      "speed_note": "Belum ditentukan dari rekap",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "dharmawangsa ekspress"
+      ]
+    },
+    {
+      "number": "181-184",
+      "number_aliases": [
+        "181",
+        "182",
+        "183",
+        "184"
+      ],
+      "name": "Kamandaka",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif SS Gen 1/NI/old dan Ekonomi modifikasi new generation",
+      "rolling_stock": "Eksekutif SS Gen 1/NI/old dan Ekonomi modifikasi new generation",
+      "locomotive": "CC 201",
+      "speed_note": "Belum ditentukan dari rekap",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "kamandaka"
+      ]
+    },
+    {
+      "number": "185-189",
+      "number_aliases": [
+        "185",
+        "186",
+        "187",
+        "188",
+        "189"
+      ],
+      "name": "Joglosemarkerto",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif SS Gen 1/NI/old dan Ekonomi modifikasi new generation",
+      "rolling_stock": "Eksekutif SS Gen 1/NI/old dan Ekonomi modifikasi new generation",
+      "locomotive": "CC 201",
+      "speed_note": "Belum ditentukan dari rekap",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "joglosemarkerto"
+      ]
+    },
+    {
+      "number": "190-191",
+      "number_aliases": [
+        "190",
+        "191"
+      ],
+      "name": "Kamandaka",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif SS Gen 1/NI/old dan Ekonomi modifikasi new generation",
+      "rolling_stock": "Eksekutif SS Gen 1/NI/old dan Ekonomi modifikasi new generation",
+      "locomotive": "CC 201",
+      "speed_note": "Belum ditentukan dari rekap",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "kamandaka"
+      ]
+    },
+    {
+      "number": "192-193",
+      "number_aliases": [
+        "192",
+        "193"
+      ],
+      "name": "Joglosemarkerto",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif SS Gen 1/NI/old dan Ekonomi modifikasi new generation",
+      "rolling_stock": "Eksekutif SS Gen 1/NI/old dan Ekonomi modifikasi new generation",
+      "locomotive": "CC 201",
+      "speed_note": "Belum ditentukan dari rekap",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "joglosemarkerto"
+      ]
+    },
+    {
+      "number": "194-199",
+      "number_aliases": [
+        "194",
+        "195",
+        "196",
+        "197",
+        "198",
+        "199"
+      ],
+      "name": "Kamandaka",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif SS Gen 1/NI/old dan Ekonomi modifikasi new generation",
+      "rolling_stock": "Eksekutif SS Gen 1/NI/old dan Ekonomi modifikasi new generation",
+      "locomotive": "CC 201",
+      "speed_note": "Belum ditentukan dari rekap",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "kamandaka"
+      ]
+    },
+    {
+      "number": "201-202",
+      "number_aliases": [
+        "201",
+        "202"
+      ],
+      "name": "Joglosemarkerto CP",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif SS Gen 1/NI/old dan Ekonomi modifikasi new generation",
+      "rolling_stock": "Eksekutif SS Gen 1/NI/old dan Ekonomi modifikasi new generation",
+      "locomotive": "Belum dipetakan",
+      "speed_note": "Belum ditentukan dari rekap",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "joglosemarkerto cp"
+      ]
+    },
+    {
+      "number": "209-212",
+      "number_aliases": [
+        "209",
+        "210",
+        "211",
+        "212"
+      ],
+      "name": "Mutiara Timur",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif SS Gen 1/NI/old dan Ekonomi modifikasi new generation",
+      "rolling_stock": "Eksekutif SS Gen 1/NI/old dan Ekonomi modifikasi new generation",
+      "locomotive": "Belum dipetakan",
+      "speed_note": "Belum ditentukan dari rekap",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "mutiara timur"
+      ]
+    },
+    {
+      "number": "223-230",
+      "number_aliases": [
+        "223",
+        "224",
+        "225",
+        "226",
+        "227",
+        "228",
+        "229",
+        "230"
+      ],
+      "name": "Pangrango",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif SS Gen 1/NI/old dan Ekonomi modifikasi new generation",
+      "rolling_stock": "Eksekutif SS Gen 1/NI/old dan Ekonomi modifikasi new generation",
+      "locomotive": "CC 206",
+      "speed_note": "Belum ditentukan dari rekap",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "pangrango"
+      ]
+    },
+    {
+      "number": "233-238",
+      "number_aliases": [
+        "233",
+        "234",
+        "235",
+        "236",
+        "237",
+        "238"
+      ],
+      "name": "Sancaka Utara",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif SS Gen 1/NI/old dan Ekonomi modifikasi new generation",
+      "rolling_stock": "Eksekutif SS Gen 1/NI/old dan Ekonomi modifikasi new generation",
+      "locomotive": "CC 206, CC 203",
+      "speed_note": "Terkena batas 110 km/jam / Sub B (sesuai rekap)",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "sancaka utara"
+      ]
+    },
+    {
+      "number": "267-268",
+      "number_aliases": [
+        "267",
+        "268"
+      ],
+      "name": "Banyubiru",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif SS Gen 1/NI/old dan Ekonomi modifikasi new generation",
+      "rolling_stock": "Eksekutif SS Gen 1/NI/old dan Ekonomi modifikasi new generation",
+      "locomotive": "Belum dipetakan",
+      "speed_note": "Belum ditentukan dari rekap",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "banyubiru"
+      ]
+    },
+    {
+      "number": "117-120",
+      "number_aliases": [
+        "117",
+        "118",
+        "119",
+        "120"
+      ],
+      "name": "Gunungjati",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif new image/old dan Ekonomi Premium non SS",
+      "rolling_stock": "Eksekutif new image/old dan Ekonomi Premium non SS",
+      "locomotive": "CC 206",
+      "speed_note": "Ditandai * pada rekap: sudah 120 km/jam",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "gunungjati"
+      ]
+    },
+    {
+      "number": "121-124",
+      "number_aliases": [
+        "121",
+        "122",
+        "123",
+        "124"
+      ],
+      "name": "Cakrabuana",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif new image/old dan Ekonomi Premium non SS",
+      "rolling_stock": "Eksekutif new image/old dan Ekonomi Premium non SS",
+      "locomotive": "CC 206",
+      "speed_note": "Ditandai * pada rekap: sudah 120 km/jam",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "cakrabuana"
+      ]
+    },
+    {
+      "number": "157-160",
+      "number_aliases": [
+        "157",
+        "158",
+        "159",
+        "160"
+      ],
+      "name": "Wijaya Kusuma",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif new image/old dan Ekonomi Premium non SS",
+      "rolling_stock": "Eksekutif new image/old dan Ekonomi Premium non SS",
+      "locomotive": "Belum dipetakan",
+      "speed_note": "Belum ditentukan dari rekap",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "wijaya kusuma"
+      ]
+    },
+    {
+      "number": "167-168",
+      "number_aliases": [
+        "167",
+        "168"
+      ],
+      "name": "Kertanegara",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif new image/old dan Ekonomi Premium non SS",
+      "rolling_stock": "Eksekutif new image/old dan Ekonomi Premium non SS",
+      "locomotive": "CC 203",
+      "speed_note": "Ditandai * pada rekap: sudah 120 km/jam",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "kertanegara"
+      ]
+    },
+    {
+      "number": "169-170",
+      "number_aliases": [
+        "169",
+        "170"
+      ],
+      "name": "Malioboro Ekspress",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif new image/old dan Ekonomi Premium non SS",
+      "rolling_stock": "Eksekutif new image/old dan Ekonomi Premium non SS",
+      "locomotive": "CC 201",
+      "speed_note": "Ditandai * pada rekap: sudah 120 km/jam",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "malioboro ekspress"
+      ]
+    },
+    {
+      "number": "171-174",
+      "number_aliases": [
+        "171",
+        "172",
+        "173",
+        "174"
+      ],
+      "name": "Ciremai",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif new image/old dan Ekonomi Premium non SS",
+      "rolling_stock": "Eksekutif new image/old dan Ekonomi Premium non SS",
+      "locomotive": "CC 206",
+      "speed_note": "Ditandai * pada rekap: sudah 120 km/jam",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "ciremai"
+      ]
+    },
+    {
+      "number": "175-177",
+      "number_aliases": [
+        "175",
+        "176",
+        "177"
+      ],
+      "name": "Menoreh",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif new image/old dan Ekonomi Premium non SS",
+      "rolling_stock": "Eksekutif new image/old dan Ekonomi Premium non SS",
+      "locomotive": "CC 203",
+      "speed_note": "Ditandai * pada rekap: sudah 120 km/jam",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "menoreh"
+      ]
+    },
+    {
+      "number": "178-180",
+      "number_aliases": [
+        "178",
+        "179",
+        "180"
+      ],
+      "name": "Tawang Jaya Premium",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif new image/old dan Ekonomi Premium non SS",
+      "rolling_stock": "Eksekutif new image/old dan Ekonomi Premium non SS",
+      "locomotive": "CC 203",
+      "speed_note": "Ditandai * pada rekap: sudah 120 km/jam",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "tawang jaya premium"
+      ]
+    },
+    {
+      "number": "213-222",
+      "number_aliases": [
+        "213",
+        "214",
+        "215",
+        "216",
+        "217",
+        "218",
+        "219",
+        "220",
+        "221",
+        "222"
+      ],
+      "name": "Kaligung",
+      "route": "",
+      "schedule": "",
+      "category": "Eksekutif new image/old dan Ekonomi Premium non SS",
+      "rolling_stock": "Eksekutif new image/old dan Ekonomi Premium non SS",
+      "locomotive": "CC 201",
+      "speed_note": "Belum ditentukan dari rekap",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "kaligung"
+      ]
+    },
+    {
+      "number": "245-246",
+      "number_aliases": [
+        "245",
+        "246"
+      ],
+      "name": "Majapahit",
+      "route": "",
+      "schedule": "",
+      "category": "Ekonomi new generation (SS Gen 2 dan modif)",
+      "rolling_stock": "Ekonomi new generation (SS Gen 2 dan modif)",
+      "locomotive": "CC 203",
+      "speed_note": "Ditandai * pada rekap: sudah 120 km/jam",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "majapahit"
+      ]
+    },
+    {
+      "number": "255-256",
+      "number_aliases": [
+        "255",
+        "256"
+      ],
+      "name": "Jaka Tingkir",
+      "route": "",
+      "schedule": "",
+      "category": "Ekonomi new generation (SS Gen 2 dan modif)",
+      "rolling_stock": "Ekonomi new generation (SS Gen 2 dan modif)",
+      "locomotive": "CC 203",
+      "speed_note": "Terkena batas 110 km/jam / Sub B (sesuai rekap)",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "jaka tingkir"
+      ]
+    },
+    {
+      "number": "257-258",
+      "number_aliases": [
+        "257",
+        "258"
+      ],
+      "name": "Progo",
+      "route": "",
+      "schedule": "",
+      "category": "Ekonomi new generation (SS Gen 2 dan modif)",
+      "rolling_stock": "Ekonomi new generation (SS Gen 2 dan modif)",
+      "locomotive": "CC 201",
+      "speed_note": "Terkena batas 110 km/jam / Sub B (sesuai rekap)",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "progo"
+      ]
+    },
+    {
+      "number": "269-270",
+      "number_aliases": [
+        "269",
+        "270"
+      ],
+      "name": "Matarmaja",
+      "route": "",
+      "schedule": "",
+      "category": "Ekonomi new generation (SS Gen 2 dan modif)",
+      "rolling_stock": "Ekonomi new generation (SS Gen 2 dan modif)",
+      "locomotive": "CC 201",
+      "speed_note": "Belum ditentukan dari rekap",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "matarmaja"
+      ]
+    },
+    {
+      "number": "275-276",
+      "number_aliases": [
+        "275",
+        "276"
+      ],
+      "name": "Pasundan",
+      "route": "",
+      "schedule": "",
+      "category": "Ekonomi new generation (SS Gen 2 dan modif)",
+      "rolling_stock": "Ekonomi new generation (SS Gen 2 dan modif)",
+      "locomotive": "CC 203",
+      "speed_note": "Belum ditentukan dari rekap",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "pasundan"
+      ]
+    },
+    {
+      "number": "231-232",
+      "number_aliases": [
+        "231",
+        "232"
+      ],
+      "name": "Banyubiru Ekspress",
+      "route": "",
+      "schedule": "",
+      "category": "Premium SS/non SS",
+      "rolling_stock": "Premium SS/non SS",
+      "locomotive": "Belum dipetakan",
+      "speed_note": "Belum ditentukan dari rekap",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "banyubiru ekspress"
+      ]
+    },
+    {
+      "number": "247-250",
+      "number_aliases": [
+        "247",
+        "248",
+        "249",
+        "250"
+      ],
+      "name": "Logawa",
+      "route": "",
+      "schedule": "",
+      "category": "Premium SS/non SS",
+      "rolling_stock": "Premium SS/non SS",
+      "locomotive": "Belum dipetakan",
+      "speed_note": "Ditandai * pada rekap: sudah 120 km/jam",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "logawa"
+      ]
+    },
+    {
+      "number": "251-252",
+      "number_aliases": [
+        "251",
+        "252"
+      ],
+      "name": "Jayakarta",
+      "route": "",
+      "schedule": "",
+      "category": "Premium SS/non SS",
+      "rolling_stock": "Premium SS/non SS",
+      "locomotive": "CC 206",
+      "speed_note": "Ditandai * pada rekap: sudah 120 km/jam",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "jayakarta"
+      ]
+    },
+    {
+      "number": "253-254",
+      "number_aliases": [
+        "253",
+        "254"
+      ],
+      "name": "Kertajaya",
+      "route": "",
+      "schedule": "",
+      "category": "Premium SS/non SS",
+      "rolling_stock": "Premium SS/non SS",
+      "locomotive": "CC 206",
+      "speed_note": "Ditandai * pada rekap: sudah 120 km/jam",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "kertajaya"
+      ]
+    },
+    {
+      "number": "259-260",
+      "number_aliases": [
+        "259",
+        "260"
+      ],
+      "name": "Tawang Jaya",
+      "route": "",
+      "schedule": "",
+      "category": "Premium SS/non SS",
+      "rolling_stock": "Premium SS/non SS",
+      "locomotive": "CC 203",
+      "speed_note": "Ditandai * pada rekap: sudah 120 km/jam",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "tawang jaya"
+      ]
+    },
+    {
+      "number": "261-262",
+      "number_aliases": [
+        "261",
+        "262"
+      ],
+      "name": "Blora Jaya",
+      "route": "",
+      "schedule": "",
+      "category": "Premium SS/non SS",
+      "rolling_stock": "Premium SS/non SS",
+      "locomotive": "Belum dipetakan",
+      "speed_note": "Belum ditentukan dari rekap",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "blora jaya"
+      ]
+    },
+    {
+      "number": "263-266",
+      "number_aliases": [
+        "263",
+        "264",
+        "265",
+        "266"
+      ],
+      "name": "Ambarawa Ekspress",
+      "route": "",
+      "schedule": "",
+      "category": "Premium SS/non SS",
+      "rolling_stock": "Premium SS/non SS",
+      "locomotive": "Belum dipetakan",
+      "speed_note": "Belum ditentukan dari rekap",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "ambarawa ekspress"
+      ]
+    },
+    {
+      "number": "299-300",
+      "number_aliases": [
+        "299",
+        "300"
+      ],
+      "name": "Cikuray",
+      "route": "",
+      "schedule": "",
+      "category": "Eko Kerakyatan 93 td",
+      "rolling_stock": "Eko Kerakyatan 93 td",
+      "locomotive": "CC 206",
+      "speed_note": "Belum ditentukan dari rekap",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "cikuray"
+      ]
+    },
+    {
+      "number": "271-272",
+      "number_aliases": [
+        "271",
+        "272"
+      ],
+      "name": "Airlangga",
+      "route": "",
+      "schedule": "",
+      "category": "Ekonomi adu dengkul",
+      "rolling_stock": "Ekonomi adu dengkul",
+      "locomotive": "CC 201",
+      "speed_note": "Belum ditentukan dari rekap",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "airlangga"
+      ]
+    },
+    {
+      "number": "273-274",
+      "number_aliases": [
+        "273",
+        "274"
+      ],
+      "name": "Kahuripan",
+      "route": "",
+      "schedule": "",
+      "category": "Ekonomi adu dengkul",
+      "rolling_stock": "Ekonomi adu dengkul",
+      "locomotive": "CC 203",
+      "speed_note": "Belum ditentukan dari rekap",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "kahuripan"
+      ]
+    },
+    {
+      "number": "277-280",
+      "number_aliases": [
+        "277",
+        "278",
+        "279",
+        "280"
+      ],
+      "name": "Sri Tanjung",
+      "route": "",
+      "schedule": "",
+      "category": "Ekonomi adu dengkul",
+      "rolling_stock": "Ekonomi adu dengkul",
+      "locomotive": "Belum dipetakan",
+      "speed_note": "Belum ditentukan dari rekap",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "sri tanjung"
+      ]
+    },
+    {
+      "number": "281-282",
+      "number_aliases": [
+        "281",
+        "282"
+      ],
+      "name": "Bengawan",
+      "route": "",
+      "schedule": "",
+      "category": "Ekonomi adu dengkul",
+      "rolling_stock": "Ekonomi adu dengkul",
+      "locomotive": "CC 201",
+      "speed_note": "Belum ditentukan dari rekap",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "bengawan"
+      ]
+    },
+    {
+      "number": "283-290",
+      "number_aliases": [
+        "283",
+        "284",
+        "285",
+        "286",
+        "287",
+        "288",
+        "289",
+        "290"
+      ],
+      "name": "Serayu",
+      "route": "",
+      "schedule": "",
+      "category": "Ekonomi adu dengkul",
+      "rolling_stock": "Ekonomi adu dengkul",
+      "locomotive": "CC 204",
+      "speed_note": "Belum ditentukan dari rekap",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "serayu"
+      ]
+    },
+    {
+      "number": "291-292",
+      "number_aliases": [
+        "291",
+        "292"
+      ],
+      "name": "Kutojaya Selatan",
+      "route": "",
+      "schedule": "",
+      "category": "Ekonomi adu dengkul",
+      "rolling_stock": "Ekonomi adu dengkul",
+      "locomotive": "CC 204",
+      "speed_note": "Belum ditentukan dari rekap",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "kutojaya selatan"
+      ]
+    },
+    {
+      "number": "293-296",
+      "number_aliases": [
+        "293",
+        "294",
+        "295",
+        "296"
+      ],
+      "name": "Tawangalun",
+      "route": "",
+      "schedule": "",
+      "category": "Ekonomi adu dengkul",
+      "rolling_stock": "Ekonomi adu dengkul",
+      "locomotive": "Belum dipetakan",
+      "speed_note": "Belum ditentukan dari rekap",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "tawangalun"
+      ]
+    },
+    {
+      "number": "297-298",
+      "number_aliases": [
+        "297",
+        "298"
+      ],
+      "name": "Probowangi",
+      "route": "",
+      "schedule": "",
+      "category": "Ekonomi adu dengkul",
+      "rolling_stock": "Ekonomi adu dengkul",
+      "locomotive": "Belum dipetakan",
+      "speed_note": "Belum ditentukan dari rekap",
+      "notes": "Kategori dan rentang nomor mengikuti rekap pengguna. Detail jadwal tersedia terpisah dari data Gapeka bila telah diproses.",
+      "aliases": [
+        "probowangi"
+      ]
+    }
+  ],
+  "locomotive_support": {
+    "CC 206": [
+      "Bima",
+      "Argo Semeru",
+      "Papandayan",
+      "Pangandaran",
+      "Parahyangan",
+      "Pandalungan",
+      "Argo Merbabu",
+      "Jayakarta",
+      "Gaya Baru Malam Selatan",
+      "Jayabaya",
+      "Pangrango",
+      "Cikuray",
+      "Siliwangi",
+      "Argo Wilis",
+      "Turangga",
+      "Malabar",
+      "Harina",
+      "Cakrabuana",
+      "Gunungjati",
+      "Ranggajati",
+      "Argo Sindoro",
+      "Argo Muria",
+      "Ciremai",
+      "Purwojaya",
+      "Argo Lawu",
+      "Sembrani",
+      "Argo Dwipangga",
+      "Taksaka",
+      "Sancaka",
+      "Sangkuriang",
+      "Wijayakusuma",
+      "ABA",
+      "Gajayana",
+      "Brawijaya",
+      "Mutsel",
+      "Kertajaya",
+      "Manahan",
+      "Lodaya",
+      "Fajar Utama Solo"
+    ],
+    "CC 203": [
+      "Fajar/Senja Yogyakarta",
+      "Mataram",
+      "Tawang Jaya Premium",
+      "Menoreh",
+      "Sawunggalih",
+      "Kertanegara",
+      "Bogowonto",
+      "Gajahwong",
+      "Majapahit",
+      "Kahuripan",
+      "Pasundan",
+      "Sancaka Utara",
+      "Blambangan",
+      "Jaka Tingkir"
+    ],
+    "CC 204": [
+      "Kutojaya Selatan",
+      "Serayu"
+    ],
+    "CC 201": [
+      "Singasari",
+      "Bangunkarta",
+      "Parcel Selatan",
+      "Madiun Jaya",
+      "Lokal Merak",
+      "Argo Anjasmoro",
+      "Parcel Utara",
+      "Airlangga",
+      "CL Walahar/Garut/BD Raya",
+      "Kaligung",
+      "Kamandaka",
+      "Joglosemarkerto non CP",
+      "Malioboro Eks",
+      "Bengawan",
+      "Matarmaja",
+      "Progo",
+      "Brantas",
+      "Dharmawangsa",
+      "Gumarang",
+      "Tegal Bahari"
+    ]
+  },
+  "speed_limit": {
+    "not_affected_110": [
+      "Semua KA Argo",
+      "Taksaka",
+      "Gajayana",
+      "Pandalungan",
+      "Turangga",
+      "Brawijaya",
+      "Sembrani",
+      "Bima",
+      "Purwojaya",
+      "Malabar",
+      "Mutiara Selatan",
+      "Gaya Baru Malam Selatan"
+    ],
+    "affected_110_sub_b": [
+      "Fajar Utama Solo",
+      "Sawunggalih",
+      "Tawang Jaya Premium",
+      "Jayakarta",
+      "Mataram",
+      "Gajahwong",
+      "Jaka Tingkir",
+      "Menoreh",
+      "Kertajaya",
+      "Bogowonto",
+      "Progo",
+      "Fajar/Senja Utama Yogyakarta",
+      "Madiun Jaya",
+      "Majapahit",
+      "Tawang Jaya",
+      "Gunung Jati",
+      "Cakrabuana",
+      "Manahan",
+      "Lodaya",
+      "Sancaka",
+      "Malioboro Ekspress",
+      "Kertanegara",
+      "Logawa",
+      "Parahyangan",
+      "Papandayan",
+      "Pangandaran"
+    ]
+  },
+  "additional_trains": [
+    {
+      "numbers": "7001-7002",
+      "name": "Gajayana Tambahan",
+      "route": "ML-GMR",
+      "times": [
+        "18.25-08.13",
+        "00.10-13.44"
+      ]
+    },
+    {
+      "numbers": "7003-7004",
+      "name": "Sembrani Tambahan",
+      "route": "SBI-GMR",
+      "times": [
+        "05.25-15.15",
+        "14.45-00.40"
+      ]
+    },
+    {
+      "numbers": "7005-7006",
+      "name": "Batavia",
+      "route": "GMR-SLO",
+      "times": [
+        "22.00-07.00",
+        "09.35-18.00"
+      ]
+    },
+    {
+      "numbers": "7007-7010, 7033-7034",
+      "name": "Tambahan GMR-YK",
+      "route": "GMR-YK",
+      "times": [
+        "05.55-13.50",
+        "17.15-00.41",
+        "17.10-01.05",
+        "05.00-12.12",
+        "22.00-04.01",
+        "08.05-16.50"
+      ]
+    },
+    {
+      "numbers": "7011-7014",
+      "name": "Tambahan SLO-BD",
+      "route": "SLO-BD",
+      "times": [
+        "08.05-16.50",
+        "21.15-06.20",
+        "20.55-06.03",
+        "10.10-19.00"
+      ]
+    },
+    {
+      "numbers": "7015-7016",
+      "name": "Brantas Tambahan",
+      "route": "BL-PSE",
+      "times": [
+        "08.00-21.45",
+        "12.35-01.23"
+      ]
+    },
+    {
+      "numbers": "7017-7018",
+      "name": "Kertajaya Tambahan",
+      "route": "SBI-PSE",
+      "times": [
+        "21.00-09.10",
+        "04.50-17.00"
+      ]
+    },
+    {
+      "numbers": "7019-7020",
+      "name": "Dharmawangsa Tambahan",
+      "route": "SBI-PSE",
+      "times": [
+        "08.00-18.57",
+        "00.20-10.36"
+      ]
+    },
+    {
+      "numbers": "7021-7022",
+      "name": "Pasundan Tambahan",
+      "route": "SGU-KAC",
+      "times": [
+        "10.00-01.25",
+        "15.55-07.45"
+      ]
+    },
+    {
+      "numbers": "7023-7024",
+      "name": "Tambahan",
+      "route": "SGU-KAC",
+      "times": [
+        "22.10-12.41",
+        "22.55-13.45"
+      ]
+    },
+    {
+      "numbers": "7025-7026",
+      "name": "Tambahan",
+      "route": "SLO-PSE",
+      "times": [
+        "04.00-12.27",
+        "14.20-22.53"
+      ]
+    },
+    {
+      "numbers": "7027-7028",
+      "name": "Kutojaya Utara Tambahan",
+      "route": "KTA-PSE",
+      "times": [
+        "16.00-23.45",
+        "04.00-11.35"
+      ]
+    },
+    {
+      "numbers": "7029-7030",
+      "name": "Kutojaya Selatan Tambahan",
+      "route": "KTA-KAC",
+      "times": [
+        "10.15-19.40",
+        "00.05-08.23"
+      ]
+    },
+    {
+      "numbers": "7031-7032",
+      "name": "Tambahan",
+      "route": "YK-PSE",
+      "times": [
+        "04.30-12.16",
+        "15.55-00.15"
+      ]
+    },
+    {
+      "numbers": "7035-7036",
+      "name": "Tambahan",
+      "route": "SMT-GMR",
+      "times": [
+        "11.00-15.49",
+        "23.50-04.39"
+      ]
+    }
+  ]
+}
